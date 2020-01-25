@@ -14,3 +14,7 @@
 Route::get('/', function () {
     return view('web_home');
 });
+
+Route::get('/lms', function () {
+    return view('lms_dashboard');
+});
