@@ -13,7 +13,7 @@
       <a class="nav-item nav-link ml-4" href="#">SUBJECTS</a>
       <a class="nav-item nav-link ml-4" href="#">ABOUT</a>
       <a class="nav-item nav-link ml-4" href="#">CONTACT</a>
-      <a class="nav-item nav-link text-danger ml-4" href="#">LMS Login</a>
+      <a class="nav-item nav-link text-danger ml-4" href="/login">LMS Login</a>
     </div>
   </div>
   <!--<button class="" type="submit"></button>-->

@@ -1,7 +1,7 @@
 @extends('layouts.lms')
 @section('content')
     <div id="page-content-wrapper">
-        @include('includes.lms_dashboard_navbar')
+        @include('includes.lms.navbar')
         <div class="container-fluid">
             <h1 class="mt-4">Simple Sidebar</h1>
             <p>The starting state of the menu will appear collapsed on smaller screens, and will appear non-collapsed on larger screens. When toggled using the button below, the menu will change.</p>

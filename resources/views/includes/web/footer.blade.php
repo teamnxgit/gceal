@@ -13,7 +13,7 @@
 
         <!-- Content -->
         <h5 class="text-uppercase text-light">Stay Connected</h5>
-        <div id="social-facebook" class="social-icon pt-2 float-sm-left">
+        <div id="social-facebook" class="social-icon pt-2">
             <a href="https://www.facebook.com/gceal.org" target="_blank">
                 <img src="images/facebook.png" height="25px" alt="">
             </a>
