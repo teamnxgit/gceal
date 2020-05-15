@@ -10,7 +10,7 @@ use Auth;
 use Session;
 use Redirect;
 use App\Subject;
-use App\MCQ;
+use App\Mcq;
 use App\Content;
 use App\Unit;
 

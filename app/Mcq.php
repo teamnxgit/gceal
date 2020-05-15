@@ -23,6 +23,5 @@ class Mcq extends Model
     public function creator(){
         return $this->belongsTo(User::class);
     }
-
     
 }
