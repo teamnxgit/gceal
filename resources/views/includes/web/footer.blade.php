@@ -15,17 +15,17 @@
         <h5 class="text-uppercase text-light">Stay Connected</h5>
         <div id="social-facebook" class="social-icon pt-2">
             <a href="https://www.facebook.com/gceal.org" target="_blank">
-                <img src="images/facebook.png" alt="">
+                <img src="images/facebook.png" height="25px" alt="">
             </a>
         </div>
         <div id="social-google-plus" class="social-icon pt-2">
             <a href="https://plus.google.com/gceal.org" target="_blank">
-                <img src="images/gplus.png" alt="">
+                <img src="images/gplus.png" height="25px" alt="">
             </a>
         </div>
         <div id="social-youtube" class="social-icon pt-2">
             <a href="https://www.youtube.com/gcealorg" target="_blank">
-                <img src="images/youtube.png" alt="">
+                <img src="images/youtube.png" height="25px" alt="">
             </a>
         </div>
 
@@ -51,8 +51,17 @@
 
       </div>
       <!-- Grid column -->
-
-   
+      <div class="col-md-3 mb-md-0 mb-3">
+        <div id="profile-logo">
+            <img src="images/logo-white.png" alt="" height="50">
+        </div>
+        <div id="profile-info" class="text-light">
+            GCEAL.org is a program created by <a href="https://www.helplearning.org" class="text-success" target="_blank">Help Learning</a> Organization to provide free educational materials for Advaced Level students.
+        </div>
+        <div id="profile-connect" class="mt-2">
+            <p><img src="images/email.png" height="25" alt=""><span class="text-light pt-5 mt-2"> info@gceal.org</span></p>
+        </div>
+      </div>
 
     </div>
     <!-- Grid row -->
